@@ -1,0 +1,10 @@
+fis dosyasını matlab üzerinde açılması lazım
+
+run_valuation yazın ve kodun dosyasını görüntüle
+
+
+visualize_all_figures command Windows kısmına bunu yazın şekiller gözüksün 
+(9 kadar gösterildiği yer)
+
+
+fuzzyLogicDesigner(fis) command Windows kısmına bunu yazın ve burada bulanıklaştırma, bulanık çıkarım, durulaştırma gözükecektir
